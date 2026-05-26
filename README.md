@@ -34,11 +34,12 @@ Computer Scientist and Network Engineer with interests in **software engineering
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwind-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-3776AB?style=for-the-badge&logo=reudx&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwind-3776AB?style=for-the-badge&logo=tailwind&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF6B6B?style=for-the-badge)
+![Database Management](https://img.shields.io/badge/Database-3776AB?style=for-the-badge&logo=database&logoColor=white)
 
 ---
 
