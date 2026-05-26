@@ -6,7 +6,7 @@ Computer Scientist and Network Engineer with interests in **software engineering
 
 ## 🏢 About Me
 
-**Software Engineering Trainee** at [The Gym Rwanda](https://thegymrwanda.com/)
+**Software Engineering Trainee** at [The Gym Rwanda](https://thegym-rwanda.com)
 
 - 🔭 Developing projects focused on secure communication and modern web systems
 - 🌐 Strong foundation in networking and frontend development
