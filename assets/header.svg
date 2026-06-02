@@ -1,0 +1,57 @@
+<svg viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e293b;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient id="shieldGradient" cx="50%" cy="30%" r="70%">
+      <stop offset="0%" style="stop-color:#60a5fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
+    </radialGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="400" fill="url(#bgGradient)"/>
+  
+  <!-- Floating security icons -->
+  <circle cx="150" cy="80" r="30" fill="#475569" opacity="0.6"/>
+  <path d="M 150 65 L 155 75 L 145 75 Z M 150 85 L 155 95 L 145 95 Z M 135 80 L 145 80 M 155 80 L 165 80" stroke="#94a3b8" stroke-width="2" fill="none"/>
+  
+  <circle cx="1050" cy="100" r="25" fill="#475569" opacity="0.6"/>
+  <path d="M 1050 85 L 1060 100 L 1040 100 Z" stroke="#94a3b8" stroke-width="2" fill="none"/>
+  
+  <circle cx="200" cy="300" r="28" fill="#475569" opacity="0.6"/>
+  <rect x="185" y="285" width="30" height="30" rx="4" fill="none" stroke="#94a3b8" stroke-width="2"/>
+  
+  <circle cx="1000" cy="280" r="24" fill="#475569" opacity="0.6"/>
+  <circle cx="1000" cy="280" r="12" fill="none" stroke="#94a3b8" stroke-width="2"/>
+  
+  <!-- Central shield with profile silhouette -->
+  <g transform="translate(600, 200)">
+    <!-- Shield background -->
+    <path d="M -80 -40 L 80 -40 L 80 40 Q 0 120 0 120 Q 0 120 -80 40 Z" fill="url(#shieldGradient)" stroke="#1e40af" stroke-width="3"/>
+    
+    <!-- Shield shine effect -->
+    <ellipse cx="-30" cy="-20" rx="35" ry="25" fill="white" opacity="0.15"/>
+    
+    <!-- Profile silhouette -->
+    <circle cx="0" cy="-15" r="18" fill="#1e293b" opacity="0.8"/>
+    <ellipse cx="0" cy="20" rx="25" ry="30" fill="#1e293b" opacity="0.8"/>
+    
+    <!-- Lock icon on shield -->
+    <g transform="translate(45, 50)">
+      <rect x="-12" y="0" width="24" height="20" rx="2" fill="none" stroke="#60a5fa" stroke-width="2"/>
+      <circle cx="0" cy="8" r="4" fill="#60a5fa" opacity="0.3"/>
+      <line x1="-4" y1="8" x2="4" y2="8" stroke="#60a5fa" stroke-width="1.5"/>
+    </g>
+  </g>
+  
+  <!-- Text section -->
+  <text x="600" y="350" font-family="Arial, sans-serif" font-size="42" font-weight="bold" text-anchor="middle" fill="#f1f5f9">
+    Yves Thabor
+  </text>
+  <text x="600" y="385" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#94a3b8">
+    Software Engineer • Network Engineer • Security Enthusiast
+  </text>
+</svg>
