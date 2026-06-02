@@ -1,20 +1,24 @@
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+<div style="background-color: #0a0a0a; padding: 20px;">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="background-color: #0a0a0a;">
   <tr>
-    <td width="200" align="center" valign="middle">
+    <td width="200" align="center" valign="middle" style="border: 1px solid #0a0a0a;">
       <img src="https://img.shields.io/badge/SOFTWARE_ENGINEER-1a1a2e?style=for-the-badge&logoColor=a8a8c8" height="34"/>
     </td>
-    <td width="200" align="center" valign="middle">
+    <td width="200" align="center" valign="middle" style="border: 1px solid #0a0a0a;">
       <br/>
       <img src="https://img.shields.io/badge/NETWORK_ENGINEER-2d6a4f?style=for-the-badge&logoColor=9fe1cb" height="40"/>
       <br/><br/>
       <img src="assets/gitpict.jpg" width="180" height="180" style="border-radius:50%"/>
       <br/><br/>
     </td>
-    <td width="200" align="center" valign="middle">
+    <td width="200" align="center" valign="middle" style="border: 1px solid #0a0a0a;">
       <img src="https://img.shields.io/badge/SECURITY_ENTHUSIAST-1a1a2e?style=for-the-badge&logoColor=a8a8c8" height="34"/>
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
