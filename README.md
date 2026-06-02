@@ -1,4 +1,3 @@
-```html
 <p align="center">
   <img src="assets/banner.png" alt="Yves Thabor Banner" width="100%">
 </p>
@@ -10,7 +9,6 @@
   <img src="https://img.shields.io/badge/NETWORK_ENGINEER-000000?style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/SECURITY_ENTHUSIAST-C0C0C0?style=for-the-badge" height="40"/>
 </p>
-```
 
 ### Software Engineer • Network Engineer • Security Enthusiast
 
