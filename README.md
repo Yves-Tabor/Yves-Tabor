@@ -10,8 +10,7 @@
   <img src="https://img.shields.io/badge/SECURITY_ENTHUSIAST-C0C0C0?style=for-the-badge" height="44"/>
 </p>
 
-##"The distance between imagination and reality is engineering"
-
+##The distance between imagination and reality is engineering
 
 
 I'm a Computer Science student and Software Engineering passionate about building applications that are not only functional, but scalable, and meaningful.
