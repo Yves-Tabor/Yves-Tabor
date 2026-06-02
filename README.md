@@ -2,8 +2,6 @@
   <img src="assets/banner.png" alt="Yves Thabor Banner" width="100%">
 </p>
 
-<h2 align="center">The distance between imagination and reality is engineering</h2>
-
 <p align="center">
   <img src="https://img.shields.io/badge/SOFTWARE_ENGINEER-C0C0C0?style=for-the-badge" height="44"/>
   <img src="https://img.shields.io/badge/NETWORK_ENGINEER-000000?style=for-the-badge" height="44"/>
@@ -23,7 +21,7 @@ I'm a Computer Science student and Software Engineering passionate about buildin
 
 Currently focused on transforming ideas into products while continuously sharpening my engineering skills through real-world projects and technical challenges.
 
-
+<h2 align="center">The distance between imagination and reality is engineering</h2>
 
 ## Tech Arsenal
 
