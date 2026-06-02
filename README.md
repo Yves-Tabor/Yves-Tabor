@@ -13,7 +13,7 @@
     Network Engineer
   </span>
   &nbsp;
-  <span style="background:#C0C0C0;padding:8px 14px;border-radius:6px;">
+  <span style="background:'#C0C0C0';padding:8px 14px;border-radius:6px;">
     Security Enthusiast
   </span>
 </p>
