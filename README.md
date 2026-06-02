@@ -1,4 +1,22 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Yves Thabor Banner" width="100%">
+</p>
 
+<h1 align="center">Yves Thabor</h1>
+
+<p align="center">
+  <span style="background:#C0C0C0;padding:8px 14px;border-radius:6px;">
+    Software Engineer
+  </span>
+  &nbsp;
+  <span style="background:#000000;color:#ffffff;padding:8px 14px;border-radius:6px;">
+    Network Engineer
+  </span>
+  &nbsp;
+  <span style="background:#C0C0C0;padding:8px 14px;border-radius:6px;">
+    Security Enthusiast
+  </span>
+</p>
 ### Software Engineer • Network Engineer • Security Enthusiast
 
 ```txt
