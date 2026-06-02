@@ -1,11 +1,12 @@
+![Yves Thabor - Software Engineer](./assets/header.svg)
+
 # Yves Thabor
 
-<div align="center">
-  
-![Profile Header](https://img.shields.io/badge/Computer%20Science%20Student-Software%20Engineer-0f172a?style=for-the-badge&logo=github&logoColor=white)
-![Network Engineer](https://img.shields.io/badge/Network%20Engineer-Security%20Enthusiast-1e293b?style=for-the-badge&logo=netlify&logoColor=white)
+### Software Engineer • Network Engineer • Security Enthusiast
 
-</div>
+```txt
+Building technology that connects people securely.
+```
 
 ---
 
@@ -28,16 +29,12 @@ I enjoy understanding how systems work beneath the surface—from packets moving
 
 ## 🌐 What I Build
 
-### Software Engineer • Network Engineer • Security Enthusiast
-
-**Building technology that connects people securely.**
-
-I'm a Computer Science student and Software Engineering trainee passionate about building applications that are not only functional, but secure, scalable, and meaningful.
+I'm a Computer Science student and Software Engineering trainee passionate about building applications that are not only functional, but **secure**, **scalable**, and **meaningful**.
 
 My interests sit at the intersection of:
 
-- 🌐 **Networking** - Routing, Switching, Network Design
-- 🔐 **Cybersecurity** - Secure Application Design, Security Best Practices
+- 🌐 **Networking** - Routing, Switching, Network Design & Troubleshooting
+- 🔐 **Cybersecurity** - Secure Application Design, Security Best Practices, Threat Awareness
 - 💻 **Full-Stack Development** - REST APIs, Modern Web Applications
 - 📱 **System Architecture** - Scalability, Performance Optimization
 - ⚡ **System Design** - Building robust, efficient systems
