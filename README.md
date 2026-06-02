@@ -1,6 +1,19 @@
 <p align="center">
   <img src="assets/banner.png" alt="Yves Thabor Banner" width="100%">
 </p>
+<table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="25%" bgcolor="#0D1117"></td>
+    <td width="25%" bgcolor="#0D1117"></td>
+    <td width="25%" bgcolor="#0D7FDA"></td>
+    <td width="25%" bgcolor="#0D7FDA"></td>
+  </tr>
+  <tr>
+    <td colspan="4" align="center" bgcolor="#0D1117">
+      <h1>CODER .</h1>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SOFTWARE_ENGINEER-C0C0C0?style=for-the-badge" height="44"/>
