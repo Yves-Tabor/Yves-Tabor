@@ -1,20 +1,20 @@
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600">
   <tr>
-    <td align="left" width="33%">
-      <img src="https://img.shields.io/badge/SOFTWARE_ENGINEER-1a1a2e?style=for-the-badge&logoColor=white" height="36"/>
+    <td width="200" align="center" valign="middle">
+      <img src="https://img.shields.io/badge/SOFTWARE_ENGINEER-1a1a2e?style=for-the-badge&logoColor=a8a8c8" height="34"/>
     </td>
-    <td align="center" width="34%">
-      <img src="https://img.shields.io/badge/NETWORK_ENGINEER-2d6a4f?style=for-the-badge&logoColor=white" height="40"/>
+    <td width="200" align="center" valign="middle">
+      <br/>
+      <img src="https://img.shields.io/badge/NETWORK_ENGINEER-2d6a4f?style=for-the-badge&logoColor=9fe1cb" height="40"/>
+      <br/><br/>
+      <img src="assets/gitpict.jpg" width="180" height="180" style="border-radius:50%"/>
+      <br/><br/>
     </td>
-    <td align="right" width="33%">
-      <img src="https://img.shields.io/badge/SECURITY_ENTHUSIAST-1a1a2e?style=for-the-badge&logoColor=white" height="36"/>
+    <td width="200" align="center" valign="middle">
+      <img src="https://img.shields.io/badge/SECURITY_ENTHUSIAST-1a1a2e?style=for-the-badge&logoColor=a8a8c8" height="34"/>
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="assets/gitpict.jpg" alt="Yves Thabor Banner" width="300" style="border-radius: 50%; max-width: 300px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
-</p>
 
 ---
 
@@ -68,8 +68,8 @@ Software Engineering:
 
 If you're interested in:
 
-✔️ Software Engineering
-✔️ Networking
+✔️ Software Engineering  
+✔️ Networking  
 ✔️ Innovative Tech Projects
 
 Let's build something meaningful together.
