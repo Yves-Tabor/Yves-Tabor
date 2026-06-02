@@ -1,87 +1,42 @@
-![Yves Thabor - Software Engineer](./assets/header.svg)
+# 👋 Welcome to My Profile
 
-# Yves Thabor
+**Computer Scientist & Network Engineer** | Software Engineering Trainee at [The Gym Rwanda](https://thegym-rwanda.com)
 
-### Software Engineer • Network Engineer • Security Enthusiast
-
-```txt
-Building technology that connects people securely.
-```
+Building secure, scalable solutions with a passion for **software engineering**, **networking**, **cybersecurity**, and **modern web technologies**.
 
 ---
 
-## 🚀 Current Mission
+## 🚀 About Me
 
-* 🎓 Final-year Computer Science student
-* 🏋️ Software Engineering Trainee at The Gym Rwanda
-* 📚 Continuously improving JavaScript, React, Node.js and Security concepts
-* 🌍 Exploring how technology can improve communication and education
-
----
-
-## 🧠 Engineering Philosophy
-
-> **"Good software solves problems. Great software solves them securely, efficiently, and elegantly."**
-
-I enjoy understanding how systems work beneath the surface—from packets moving through networks to applications serving thousands of users.
+- 🔭 Developing projects focused on **secure communication** and **modern web systems**
+- 🌐 Strong foundation in **networking** and **frontend development**
+- 🔐 Passionate about **cybersecurity** and secure application design
+- 💡 Problem-solving mindset with hands-on approach to learning
+- 🎓 Continuous learner through self-directed projects and technical challenges
 
 ---
 
-## 🌐 What I Build
+## 💼 What I Do
 
-I'm a Computer Science student and Software Engineering trainee passionate about building applications that are not only functional, but **secure**, **scalable**, and **meaningful**.
-
-My interests sit at the intersection of:
-
-- 🌐 **Networking** - Routing, Switching, Network Design & Troubleshooting
-- 🔐 **Cybersecurity** - Secure Application Design, Security Best Practices, Threat Awareness
-- 💻 **Full-Stack Development** - REST APIs, Modern Web Applications
-- 📱 **System Architecture** - Scalability, Performance Optimization
-- ⚡ **System Design** - Building robust, efficient systems
+- Design and build **full-stack web applications** with modern frameworks
+- Implement **secure communication protocols** and best practices
+- Optimize **network architecture** for performance and security
+- Write **clean, maintainable code** with a focus on scalability
+- Contribute to technical projects and collaborate with teams
 
 ---
 
-## ⚙️ Tech Arsenal
+## 🛠️ Tech Stack
 
-### Languages
-```
-JavaScript • TypeScript • Python • SQL • Bash
-```
+**Frontend:** JavaScript • TypeScript • React • Redux • Tailwind CSS
 
-### Frontend
-```
-React • Redux • Tailwind CSS • HTML5 • CSS3 • Next.js
-```
+**Backend & Tools:** Node.js • Git • Database Management
 
-### Backend & Tools
-```
-Node.js • Express • Git • Docker • Database Management • REST APIs
-```
-
-### Domains
-
-| **Networking** | **Cybersecurity** | **Software Engineering** |
-|---|---|---|
-| Routing & Switching | Secure Application Design | REST APIs |
-| Network Design | Security Best Practices | Full Stack Development |
-| Troubleshooting | Threat Awareness | System Design |
+**Specializations:** Networking • Cybersecurity • System Design
 
 ---
 
-## 📌 Featured Projects
-
-### 🔐 SecureChat
-End-to-end secure communication platform focused on privacy, real-time messaging, and modern web technologies.
-
-### 🌐 Networking Projects
-Designing and analyzing network infrastructures with an emphasis on security and performance.
-
-### 💻 Web Applications
-Building scalable and responsive applications using modern JavaScript technologies.
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 ![Yves-Tabor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yves-Tabor&show_icons=true&theme=radical)
 
@@ -110,33 +65,20 @@ Building scalable and responsive applications using modern JavaScript technologi
 
 ---
 
-## 🎯 2026 Goals
+## 🤝 Let's Connect
 
-* ✨ Build production-ready full-stack applications
-* 🔒 Deepen cybersecurity expertise
-* 🌟 Contribute to open-source projects
-* 🏗️ Master backend architecture and system design
-* 🚀 Launch impactful software products
+I'm always interested in collaborating on meaningful projects or discussing ideas about:
+- 🔐 Cybersecurity best practices
+- 🌐 Network architecture & optimization
+- 💻 Full-stack web development
+- 🚀 Scalable system design
 
----
-
-## 🤝 Connect & Collaborate
-
-I'm always interested in:
-
-✔️ **Software Engineering** - Building scalable applications
-✔️ **Networking** - Designing robust network systems
-✔️ **Innovative Tech Projects** - Creating meaningful solutions
-✔️ **Cybersecurity** - Securing systems and applications
-
-**Let's build something meaningful together.**
+**Feel free to explore my repositories and reach out!**
 
 ---
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=Yves-Tabor&color=blueviolet)
-
-**"Turning ideas into secure, scalable products" 🚀**
+  ![Profile Views](https://komarev.com/ghpvc/?username=Yves-Tabor&color=blueviolet)
   
 </div>
