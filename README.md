@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="assets/gitpict.jpg" alt="Yves Thabor Banner" width="100%">
+  <img src="assets/gitpict.jpg" alt="Yves Thabor Banner" width="80%" style="border-radius: 12px; max-width: 600px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 20px;">
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/SOFTWARE_ENGINEER-C0C0C0?style=for-the-badge" height="44"/>
   <img src="https://img.shields.io/badge/NETWORK_ENGINEER-000000?style=for-the-badge" height="44"/>
