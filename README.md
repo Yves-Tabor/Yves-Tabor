@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/gitpict.png" alt="Yves Thabor Banner" width="100%">
+  <img src="assets/gitpict.jpg" alt="Yves Thabor Banner" width="100%">
 </p>
 <table width="100%" align='center' cellspacing="0" cellpadding="0">
   <tr>
