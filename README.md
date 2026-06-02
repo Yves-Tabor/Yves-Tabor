@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/gitpict.jpg" alt="Yves Thabor Banner" width="80%" style="border-radius: 12px; max-width: 600px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 20px;">
+  <img src="assets/gitpict.jpg" alt="Yves Thabor Banner" width="50%" style="border-radius: 12px; max-width: 400px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 20px;">
 </p>
 
 <p align="center">
