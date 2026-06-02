@@ -1,22 +1,17 @@
+```html
 <p align="center">
   <img src="assets/banner.png" alt="Yves Thabor Banner" width="100%">
 </p>
 
-<h1 align="center">Yves Thabor</h1>
+<h1 align="center">CODE .</h1>
 
 <p align="center">
-  <span style="background:#C0C0C0;padding:8px 14px;border-radius:6px;">
-    Software Engineer
-  </span>
-  &nbsp;
-  <span style="background:#000000;color:#ffffff;padding:8px 14px;border-radius:6px;">
-    Network Engineer
-  </span>
-  &nbsp;
-  <span style="background:'#C0C0C0';padding:8px 14px;border-radius:6px;">
-    Security Enthusiast
-  </span>
+  <img src="https://img.shields.io/badge/SOFTWARE_ENGINEER-C0C0C0?style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/NETWORK_ENGINEER-000000?style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/SECURITY_ENTHUSIAST-C0C0C0?style=for-the-badge" height="40"/>
 </p>
+```
+
 ### Software Engineer • Network Engineer • Security Enthusiast
 
 ```txt
