@@ -22,7 +22,7 @@
 
 ---
 
-I'm a Computer Science student and Software Engineering passionate about building applications that are not only functional, but scalable, and meaningful.
+<h2 align='center'>Hi, I'm Yves 👋</h2>
 
 **Building technology that connects people securely.**
 
