@@ -24,21 +24,21 @@
 **Building technology that connects people securely.**
 
 <table align="center" border="0" cellpadding="0" cellspacing="6" style="border:none;border-collapse:separate;">
-  <tr style="border:none;">
-    <td align="center" bgcolor="black" style="border:none;border-radius:6px;padding:10px 16px;">
-      <span>🌐</span>&nbsp;<b><font color="#5dcaa5">Networking</font></b>
+  <tr>
+    <td align="center" style="border: 1px solid #0a0a0a; background-color:#0f2a1e; border-radius:6px; padding:10px 16px;">
+      🌐&nbsp;<b><font color="#5dcaa5">Networking</font></b>
     </td>
-    <td align="center" bgcolor="#1a1a2e" style="border:none;border-radius:6px;padding:10px 16px;">
-      <span>🔐</span>&nbsp;<font color="#a8a8c8">Cybersecurity</font>
+    <td align="center" style="border: 1px solid #0a0a0a; background-color:#1a1a2e; border-radius:6px; padding:10px 16px;">
+      🔐&nbsp;<font color="#a8a8c8">Cybersecurity</font>
     </td>
-    <td align="center" bgcolor="#0f2a1e" style="border:none;border-radius:6px;padding:10px 16px;">
-      <span>💻</span>&nbsp;<b><font color="#5dcaa5">Full-Stack Development</font></b>
+    <td align="center" style="border: 1px solid #0a0a0a; background-color:#0f2a1e; border-radius:6px; padding:10px 16px;">
+      💻&nbsp;<b><font color="#5dcaa5">Full-Stack Development</font></b>
     </td>
-    <td align="center" bgcolor="#1a1a2e" style="border:none;border-radius:6px;padding:10px 16px;">
-      <span>📱</span>&nbsp;<font color="#a8a8c8">Modern Web Applications</font>
+    <td align="center" style="border: 1px solid #0a0a0a; background-color:#1a1a2e; border-radius:6px; padding:10px 16px;">
+      📱&nbsp;<font color="#a8a8c8">Modern Web Applications</font>
     </td>
-    <td align="center" bgcolor="#0f2a1e" style="border:none;border-radius:6px;padding:10px 16px;">
-      <span>⚡</span>&nbsp;<b><font color="#5dcaa5">System Design</font></b>
+    <td align="center" style="border: 1px solid #0a0a0a; background-color:#0f2a1e; border-radius:6px; padding:10px 16px;">
+      ⚡&nbsp;<b><font color="#5dcaa5">System Design</font></b>
     </td>
   </tr>
 </table>
