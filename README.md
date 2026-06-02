@@ -20,9 +20,8 @@
 
 </div>
 
----
 
-<h2 align='center'>Hi, I'm Yves 👋</h2>
+<h2 align='center'>Hi,👋 I'm Yves</h2>
 
 **Building technology that connects people securely.**
 
