@@ -21,7 +21,7 @@ I'm a Computer Science student and Software Engineering passionate about buildin
 
 Currently focused on transforming ideas into products while continuously sharpening my engineering skills through real-world projects and technical challenges.
 <h4>Phylosophy</h4>
-<p align="center">The distance between imagination and reality is engineering</p>
+<p>The distance between imagination and reality is engineering</p>
 
 ## Tech Arsenal
 
