@@ -10,33 +10,25 @@
   <img src="https://img.shields.io/badge/SECURITY_ENTHUSIAST-C0C0C0?style=for-the-badge" height="44"/>
 </p>
 
+##"The distance between imagination and reality is engineering"
 
 
-```txt
-Building technology that connects people securely.
-```
 
-I'm a Computer Science student and Software Engineering trainee passionate about building applications that are not only functional, but secure, scalable, and meaningful.
+I'm a Computer Science student and Software Engineering passionate about building applications that are not only functional, but scalable, and meaningful.
 
-My interests sit at the intersection of:
+**Building technology that connects people securely.**
 
-🌐 Networking
+🌐 **Networking**
 🔐 Cybersecurity
-💻 Full-Stack Development
+💻 **Full-Stack Development**
 📱 Modern Web Applications
-⚡ System Design
+⚡ **System Design**
 
 Currently focused on transforming ideas into products while continuously sharpening my engineering skills through real-world projects and technical challenges.
 
------
 
-## 🧠 Engineering Philosophy
 
-> "The distance between imagination and reality is engineering"
-
------
-
-## ⚙️ Tech Arsenal
+## Tech Arsenal
 
 ### Languages
 
@@ -71,7 +63,7 @@ Software Engineering:
 ```
 ---
 
-## 🤝 Connect & Collaborate
+## Connect & Collaborate
 
 If you're interested in:
 
