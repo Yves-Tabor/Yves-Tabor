@@ -2,13 +2,15 @@
   <img src="assets/banner.png" alt="Yves Thabor Banner" width="100%">
 </p>
 
-<h1 align="center">CODER .</h1>
+<h1 align="center">Yves Thabor</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SOFTWARE_ENGINEER-D4AF37?style=for-the-badge&logoColor=black" height="42"/>
-  <img src="https://img.shields.io/badge/NETWORK_ENGINEER-111111?style=for-the-badge&logoColor=white" height="42"/>
-  <img src="https://img.shields.io/badge/SECURITY_ENTHUSIAST-C0C0C0?style=for-the-badge&logoColor=black" height="42"/>
+  <img src="https://img.shields.io/badge/SOFTWARE_ENGINEER-C0C0C0?style=for-the-badge" height="44"/>
+  <img src="https://img.shields.io/badge/NETWORK_ENGINEER-000000?style=for-the-badge" height="44"/>
+  <img src="https://img.shields.io/badge/SECURITY_ENTHUSIAST-C0C0C0?style=for-the-badge" height="44"/>
 </p>
+
+
 
 ```txt
 Building technology that connects people securely.
