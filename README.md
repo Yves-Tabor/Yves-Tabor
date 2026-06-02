@@ -23,7 +23,25 @@
 
 **Building technology that connects people securely.**
 
-🌐 **Networking** &nbsp;|&nbsp; 🔐 Cybersecurity &nbsp;|&nbsp; 💻 **Full-Stack Development** &nbsp;|&nbsp; 📱 Modern Web Applications &nbsp;|&nbsp; ⚡ **System Design**
+<table align="center" border="0" cellpadding="0" cellspacing="6" style="border:none;border-collapse:separate;">
+  <tr style="border:none;">
+    <td align="center" bgcolor="black" style="border:none;border-radius:6px;padding:10px 16px;">
+      <span>🌐</span>&nbsp;<b><font color="#5dcaa5">Networking</font></b>
+    </td>
+    <td align="center" bgcolor="#1a1a2e" style="border:none;border-radius:6px;padding:10px 16px;">
+      <span>🔐</span>&nbsp;<font color="#a8a8c8">Cybersecurity</font>
+    </td>
+    <td align="center" bgcolor="#0f2a1e" style="border:none;border-radius:6px;padding:10px 16px;">
+      <span>💻</span>&nbsp;<b><font color="#5dcaa5">Full-Stack Development</font></b>
+    </td>
+    <td align="center" bgcolor="#1a1a2e" style="border:none;border-radius:6px;padding:10px 16px;">
+      <span>📱</span>&nbsp;<font color="#a8a8c8">Modern Web Applications</font>
+    </td>
+    <td align="center" bgcolor="#0f2a1e" style="border:none;border-radius:6px;padding:10px 16px;">
+      <span>⚡</span>&nbsp;<b><font color="#5dcaa5">System Design</font></b>
+    </td>
+  </tr>
+</table>
 
 Currently focused on transforming ideas into products while continuously sharpening my engineering skills through real-world projects and technical challenges.
 
@@ -31,8 +49,6 @@ Currently focused on transforming ideas into products while continuously sharpen
 <p><em>The distance between imagination and reality is engineering</em></p>
 
 ---
-
-## Tech Arsenal
 
 ### Languages
 `JavaScript` &nbsp; `TypeScript` &nbsp; `C` &nbsp; `C++`
