@@ -46,6 +46,7 @@ Networking:
   - Routing & Switching
   - Network Design
   - Troubleshooting
+  - Internet of Things
 
 Cybersecurity:
   - Secure Application Design
