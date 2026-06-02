@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/banner.png" alt="Yves Thabor Banner" width="100%">
 </p>
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%" align='center' cellspacing="0" cellpadding="0">
   <tr>
     <td width="25%" bgcolor="#0D1117"></td>
     <td width="25%" bgcolor="#0D1117"></td>
