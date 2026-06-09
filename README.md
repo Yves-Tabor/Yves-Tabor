@@ -2,9 +2,6 @@
 <div style="background-color: #0a0a0a; padding: 20px;">
 
 
-
-
-
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="600" style="background-color: #0a0a0a;">
   <tr>
     <td width="200" align="center" valign="middle" style="border: 1px solid #0a0a0a;">
