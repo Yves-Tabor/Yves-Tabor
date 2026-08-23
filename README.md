@@ -86,7 +86,7 @@ Software Engineering:
 If you're interested in:
 
 ✔️ Software Engineering  
-✔️ Networking  
+✔️ Computer Systems Networking  
 ✔️ Innovative Tech Projects
 
 Let's build something meaningful together.
