@@ -58,7 +58,7 @@ Currently focused on transforming ideas into products while continuously sharpen
 `React` &nbsp; `Redux` &nbsp; `Tailwind CSS` &nbsp; `HTML5` &nbsp; `CSS3`
 
 ### Backend & Tools
-`Node.js` &nbsp; `Express` &nbsp; `Git` &nbsp; `Database Management` &nbsp; `Cisco` &nbsp; `Thunkable` &nbsp; `Figma`
+`Node.js` &nbsp; `Express` &nbsp; `Git` &nbsp; `Nest.js` &nbsp; `Database Management` &nbsp; `Cisco` &nbsp; `Thunkable` &nbsp; `Figma`&nbsp; `Redis`
 
 ### Domains
 
